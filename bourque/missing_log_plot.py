@@ -15,7 +15,6 @@ LAST UPDATED:
 '''
 
 import argparse
-import datetime
 import re
 import sqlite3
 from datetime import datetime
